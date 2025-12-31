@@ -1,0 +1,5 @@
+NAME,EMAIL,MATH,ENG,SCI
+John Doe,john.doe@gmail.com,92,88,85
+Emma Stone,emma.stone@gmail.com,89,91,87
+Rahul Kumar,rahul.kumar@gmail.com,95,90,93
+Priya Sharma,priya.sharma@gmail.com,88,92,89
