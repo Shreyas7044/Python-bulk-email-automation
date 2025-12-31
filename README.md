@@ -100,8 +100,3 @@ Feel free to:
 - Add HTML email support
 - Add Attachment Feature
 Pull Requests Welcome!
-
----
-
-## ❤️ Support
-If you like the project, star ⭐ the repo.
